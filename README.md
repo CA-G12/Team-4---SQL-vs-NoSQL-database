@@ -102,6 +102,8 @@ The following defines the four most-popular types of NoSQL database:
 
 - Graph Databases.
 
+![](https://cdn-images-1.medium.com/fit/t/1600/480/0*xoC2DeugTHSh5yFV.jpg)
+
 
  ### Why use NoSQL?
 NoSQL is more scalable and provide superior performance
@@ -118,6 +120,8 @@ NoSQL is more scalable and provide superior performance
 4- High Performances.
 
 5- Open Source.
+
+![SQL](https://miro.medium.com/max/760/1*aft5e_gFeDW4DQ8tayEsrA.png)
 
 ### Disadvantages of NoSQL : 
 
