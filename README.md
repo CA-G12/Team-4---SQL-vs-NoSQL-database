@@ -89,6 +89,41 @@ SQL is a powerful, yet simple, query-based language that helps you handle databa
 
 SQL is used extensively across many business industries, including technology, finance, retail, music, and even the medical sector. It’s incredibly accessible, scalable, and user-friendly.
 
+***
+
+### NoSQL database: 
+store in an information JSON document.
+
+The following defines the four most-popular types of NoSQL database:
+- Document databases 
+- Key-value stores
+- Wide-column databases
+- Graph databases
+
+
+ ### Why use NoSQL?
+NoSQL is more scalable and provide superior performance
+
+
+### Advantages of NoSQL : 
+1- Flexible Data Module.
+2- Evolving Scalable.
+3- Elastic Scalability.
+4- High Performances.
+5- Open Source.
+
+### Disadvantages of NoSQL : 
+1- Lack of Standardization.
+2- Backup of DataBase.
+3- Open Source.
+
+## Conclusion
+So what are NoSQL databases and why do they matter now?  Flexible, high-performance NoSQL is increasingly the preferred database technology to power today’s web, mobile, and IoT applications
+
+With NoSQL, enterprises are better able to both develop with agility and operate at any scale – and deliver the performance and availability required to meet the demands of Digital Economy businesses.
+
+
+
 # 👥 **Team members**
 - [Ibtisam Hemmo](https://github.com/ibtisam-hemmo)
 - [Bayan El-Bary](https://github.com/bayan2002)
